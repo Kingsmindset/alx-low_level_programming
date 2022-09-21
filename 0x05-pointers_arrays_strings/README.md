@@ -1,5 +1,3 @@
-
-
 C - pointers, arrays and strings
 
 0 - write a function that takes a pointed to an int as parameter and  updates the value it points to be 98.
